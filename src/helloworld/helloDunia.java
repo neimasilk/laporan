@@ -8,6 +8,7 @@ public class helloDunia {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.print("Halo Dunia");
+		System.out.print("halo dunia 2");
 
 	}
 
